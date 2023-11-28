@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.navbar {
+  background-color: #ffff00;
+}
+
+.nav .nav-link.active {
+  background-color: #fff;
+  color: #000;
+}
+
+.nav .nav-link,
+.navbar-brand { 
+  color: #000;
+}
+ 
+.navbar-brand,
+.section-title { 
+  font-family: Pacifico, cursive;
+}
+
+.navbar-toggler {
+  background-color: #ffeae6;
+}
+
+.imagem-full {
+  width: 100%;
+}
+
+.section-title span {
+  color: #ffff00;
+}
+
+section {
+  background-color: #dcdcdc;
+}
