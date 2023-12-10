@@ -32,10 +32,16 @@ body {
   width: 100%;
 }
 
-.section-title span {
+.section-title span, 
+.text-colored {
   color: #ffff00;
 }
 
 section {
   background-color: #dcdcdc;
+} 
+
+#fale-conosco button {
+  background-color : #ffff00;
+  
 }
